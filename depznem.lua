@@ -61,8 +61,9 @@ ListPembeli = {
     {iddc = "481775099163443200", nick = "gaosiso4"},
     {iddc = "898721306126745630", nick = "gaciaps"},
     {iddc = "761642824202190919", nick = "Siloasol98"},
-    {iddc = "358234096650158082", nick = "p1kypuck"},
+    {iddc = "358234096650158082", nick = "JS4MTQPQFD"},
     {iddc = "431747513062653963", nick = "QwertyCMD"},
     {iddc = "379244208013180929", nick = "FQLUIOE"},
-    {iddc = "806729117298982922", nick = "MawMoot"}
+    {iddc = "806729117298982922", nick = "MawMoot"},
+    {iddc = "889033170484355093", nick = "DUYAM"}
 }
