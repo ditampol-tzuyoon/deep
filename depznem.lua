@@ -23,7 +23,7 @@ ListPembeli = {
     {iddc = "443741749412626433", nick = "Bibinuye"},
     {iddc = "550650434709225473", nick = "takura3"},
     {iddc = "739709978457145354", nick = "JerSukaRotasi"},
-    {iddc = "882126018347941908", nick = "1gtidaman23"},
+    {iddc = "882126018347941908", nick = "arayuuun"},
     {iddc = "759384235113971715", nick = "MaunyaUang"},
     {iddc = "905089633988263956", nick = "piagam100kg"},
     {iddc = "390855427555852291", nick = "sudv"},
