@@ -4,7 +4,6 @@ ListPembeli = {
     {iddc = "514608997995773963", nick = "14Walthor"},
     {iddc = "588036562881871885", nick = "CeiMut"},
     {iddc = "465535317768798248", nick = "SellGoUYNFF"},
-    {iddc = "963679436786528296", nick = "InulAbiru"},
     {iddc = "316409421137838080", nick = "Manisjelek"},
     {iddc = "454443422061821952", nick = "AlanSSR"},
     {iddc = "261481844598505472", nick = "PENTLUME"},
