@@ -27,7 +27,7 @@ ListPembeli = {
     {iddc = "905089633988263956", nick = "piagam100kg"},
     {iddc = "390855427555852291", nick = "sudv"},
     {iddc = "544814666514169888", nick = "Suksesbul"},
-    {iddc = "1019129204060717129", nick = "ZornController"},
+    {iddc = "1019129204060717129", nick = "RolandRoll"},
     {iddc = "839310435606200320", nick = "EzikDumbuk31"},
     {iddc = "955040264777510942", nick = "gebbycantik"},
     {iddc = "723343651035545600", nick = "WJKQL"},
